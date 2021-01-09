@@ -10,23 +10,17 @@
 
 ## 模型清单
 
-D20_ACT_C.stl         主动轮，即同轴联动齿轮G0a与G0b
-
-D225_C2.stl           限位齿轮G1
-
-D120_C2.stl           双层齿轮G2
-
-D20_external.stl      限位齿轮G3
-
-Moon_gear_1.stl       月球加速器中间轴齿轮G4a与G4b
-
-D6_withMoon.stl       月球齿轮G5
-
-Sun_root_C.stl        连接工件P0
-
-Earth_root.stl        参考工件P1
-
-TQ_const.stl          天琴卫星P2
+| 模型文件 | 部件名称 |
+|:--------| :-----:|
+| D20_ACT_C.stl | 主动轮，即同轴联动齿轮G0a与G0b|
+| D225_C2.stl |   限位齿轮G1|
+|D120_C2.stl  |         双层齿轮G2|
+|D20_external.stl  |    限位齿轮G3|
+|Moon_gear_1.stl    |   月球加速器中间轴齿轮G4a与G4b|
+|D6_withMoon.stl    |   月球齿轮G5|
+|Sun_root_C.stl     |   连接工件P0|
+|Earth_root.stl     |   参考工件P1|
+|TQ_const.stl       |   天琴卫星P2|
 
 
 ## 装配关系
